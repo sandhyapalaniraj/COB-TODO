@@ -18,13 +18,13 @@
     font-size: 45px;
 }
 .container {
-    width:600px;
+    width:560px;
     background-color: whitesmoke;
     color: red;
     margin: 20px auto 20px;
     border-radius: 20px;
     height: 90vh;
-    max-width: 600px;
+    max-width: 560px;
     font-weight: bolder;
 }
 img{
